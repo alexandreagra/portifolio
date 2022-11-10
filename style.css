@@ -6,19 +6,6 @@
     text-decoration: none;
 }
 
-@media screen and (max-width: 450px) {
-    .nav-overlay > .content-overlay >  a {
-        font-size: 20px ;
-    }
-    .button-close {
-        font-size: 18px ;
-        top: 15px ;
-        right: 35px ;
-    }
-}
-
-@media screen and (min-width: 480px) {
-
 .button-nav {
     border: 0;
     border-radius: 12px;
@@ -78,4 +65,3 @@
     color: #f1f1f1;;
 }
 
-}
